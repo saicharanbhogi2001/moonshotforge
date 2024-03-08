@@ -1022,6 +1022,15 @@ section {
   .counts .image img {
     max-width: 100%;
   }
+  .header-image{
+    width: 190px !important;
+  }
+  .footer-changes{
+    display:flex !important;
+    flex-direction:column !important;
+    align-items:flex-start !important;
+    gap:1rem !important;
+  }
 }
 
 /*--------------------------------------------------------------
